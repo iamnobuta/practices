@@ -1,2 +1,2 @@
 # practices
-practice for 
+practice for the course DATA SCIENTISTS' TOOLBOX
